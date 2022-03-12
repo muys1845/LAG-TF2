@@ -1,7 +1,7 @@
 # LAG-TF2
 
-Unofficial TF2 Implementation for the paper: "Creating High Resolution Images with a Latent Adversarial Generator" by
-David Berthelot, Peyman Milanfar, and Ian Goodfellow.
+Unofficial TF2 Implementation for the paper: "[Creating High Resolution Images with a Latent Adversarial Generator](https://arxiv.org/abs/2003.02365)"
+by David Berthelot, Peyman Milanfar, and Ian Goodfellow.
 
 The official TF1 implementation was used as reference https://github.com/google-research/lag/
 
