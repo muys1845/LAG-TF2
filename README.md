@@ -7,12 +7,12 @@ The official TF1 implementation was used as reference https://github.com/google-
 
 Another Unofficial Pytorch Implementation could be found at https://github.com/mmathew23/LAG-Pytorch
 
-### Training a model
+## Training a model
 
 1. Put your training data into the "./datasets" directory.
 2. Write the "./records.json" file according to your own directory name.
 3. Run the following command: ```python lag.py```
 
-### Presentation
+## Presentation
 
 ![result](./result.png)
