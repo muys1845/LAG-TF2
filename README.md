@@ -15,4 +15,4 @@ Another Unofficial Pytorch Implementation could be found at https://github.com/m
 
 ## Presentation
 
-![result](./result.png)
+![result](result.png)
