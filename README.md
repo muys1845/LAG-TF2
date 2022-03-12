@@ -6,6 +6,7 @@ by David Berthelot, Peyman Milanfar, and Ian Goodfellow.
 The official TF1 implementation was used as reference https://github.com/google-research/lag/
 
 Another Unofficial Pytorch Implementation could be found at https://github.com/mmathew23/LAG-Pytorch
+by [mmathew23](https://github.com/mmathew23).
 
 ## Training a model
 
